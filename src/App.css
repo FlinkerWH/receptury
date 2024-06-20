@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+/* ---------- Header ---------- */
+Header {background-color: #FBAB7E;
+background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+
+   
+}
+Header .SubTitle {
+  margin: 0;
+  font-size: 12px;
+}
